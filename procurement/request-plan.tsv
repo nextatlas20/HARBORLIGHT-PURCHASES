@@ -1,0 +1,10 @@
+request_id	department_id	item	quantity	priority	selected_quote	vendor	unit_cents	total_cents	status
+REQ-11	D-OPS	Torque wrench	2	1	Q-103	Gamma Works	3900	7800	ORDERED
+REQ-12	D-OPS	Safety glasses	10	2	Q-104	Alpha Supply	450	4500	BUDGET_HOLD
+REQ-13	D-LAB	Solder station	2	1	Q-202	CircuitCo	3600	7200	ORDERED
+REQ-14	D-LAB	Filter fan	1	2	Q-204	AirWorks	3400	3400	BUDGET_HOLD
+REQ-15	D-OUT	Folding table	3	1	Q-301	EventCo	1600	4800	ORDERED
+REQ-16	D-OUT	Label rolls	12	2	Q-303	LabelCo	250	3000	BUDGET_HOLD
+REQ-17	D-ZERO	Storage bins	4	3	Q-402	BoxCo	800	3200	BUDGET_HOLD
+REQ-18	D-ZERO	Archival brush	2	1	Q-401	ArchiveCo	550	1100	ORDERED
+REQ-19	D-OPS	Drill bit set	5	3	-	-	-	0	NO_ELIGIBLE_QUOTE
