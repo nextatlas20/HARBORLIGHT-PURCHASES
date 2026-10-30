@@ -1,0 +1,22 @@
+quote_id	request_id	vendor	unit_cents	stock_units	lead_days	certified
+Q-101	REQ-11	Alpha Supply	3900	2	5	YES
+Q-102	REQ-11	Beta Tools	3800	1	2	YES
+Q-103	REQ-11	Gamma Works	3900	4	3	YES
+Q-104	REQ-12	Alpha Supply	450	10	2	YES
+Q-201	REQ-13	LabSource	3700	2	7	YES
+Q-202	REQ-13	CircuitCo	3600	3	10	YES
+Q-203	REQ-14	AirWorks	3200	1	4	NO
+Q-204	REQ-14	AirWorks	3400	1	6	YES
+Q-301	REQ-15	EventCo	1600	3	8	YES
+Q-302	REQ-15	EventCo	1500	2	5	YES
+Q-303	REQ-16	LabelCo	250	12	1	YES
+Q-401	REQ-18	ArchiveCo	550	2	4	YES
+Q-402	REQ-17	BoxCo	800	4	2	YES
+Q-501	REQ-19	CheapBits	325	10	1	YES
+Q-DUP	REQ-12	Alpha Supply	440	10	3	YES
+Q-DUP	REQ-12	Alpha Supply	430	10	4	YES
+Q-X	REQ-99	Ghost Vendor	100	1	1	YES
+Q-BAD	REQ-13	CircuitCo	03600	3	8	YES
+Q-STOCK	REQ-14	AirWorks	3300	00	5	YES
+Q-LEAD	REQ-16	LabelCo	240	12	-1	YES
+Q-CERT	REQ-17	BoxCo	790	4	3	MAYBE
