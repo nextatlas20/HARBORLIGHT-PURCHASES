@@ -1,0 +1,10 @@
+request_id	department_id	item	quantity	max_unit_cents	priority
+REQ-11	D-OPS	Torque wrench	2	4200	1
+REQ-12	D-OPS	Safety glasses	10	500	2
+REQ-13	D-LAB	Solder station	2	4000	1
+REQ-14	D-LAB	Filter fan	1	3500	2
+REQ-15	D-OUT	Folding table	3	1800	1
+REQ-16	D-OUT	Label rolls	12	300	2
+REQ-17	D-ZERO	Storage bins	4	900	3
+REQ-18	D-ZERO	Archival brush	2	600	1
+REQ-19	D-OPS	Drill bit set	5	300	3
